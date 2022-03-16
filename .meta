@@ -1,0 +1,20 @@
+{
+  "projects": {
+    "client-ws": "git@git.madcloudservices.com:commerce-engine/cloud-pos/client-ws.git",
+    "model": "git.madcloudservices.com:commerce-engine/cloud-pos/model.git",
+    "integration": "git.madcloudservices.com:commerce-engine/cloud-pos/integration.git",
+    "engine": "git.madcloudservices.com:commerce-engine/cloud-pos/engine.git",
+    "hardware-manager": "git.madcloudservices.com:commerce-engine/cloud-pos/hardware-manager.git",
+    "hardware-printing-service": "git.madcloudservices.com:commerce-engine/cloud-pos/hardware-printing-service.git",
+    "commerce-services-restriction": "git.madcloudservices.com:commerce-services/commerce-services-restriction.git",
+    "commerce-services-picklist": "git.madcloudservices.com:commerce-services/commerce-services-picklist.git",
+    "commerce-services-docserv": "git.madcloudservices.com:commerce-services/commerce-services-docserv.git",
+    "sco-js": "git.madcloudservices.com:commerce-engine/cloud-pos/sco-js.git",
+    "meijer-sco-assist": "git.madcloudservices.com:commerce-engine/cloud-pos/meijer-sco-assist.git",
+    "eng-impl-meijer": "git.madcloudservices.com:commerce-engine/cloud-pos/eng-impl-meijer.git",
+    "commerce-services-model": "git.madcloudservices.com:commerce-services/commerce-services-model.git",
+    "engine-connector": "git.madcloudservices.com:commerce-engine/cloud-pos/engine-connector.git",
+    "served-config": "git.madcloudservices.com:commerce-engine/cloud-pos/served-config.git",
+    "hardware-misc-service": "git.madcloudservices.com:commerce-engine/cloud-pos/hardware-misc-service.git"
+  }
+}

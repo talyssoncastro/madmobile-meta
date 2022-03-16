@@ -1,0 +1,16 @@
+/client-ws/
+/model/
+/integration/
+/engine/
+/hardware-manager/
+/hardware-printing-service/
+/commerce-services-restriction/
+/commerce-services-picklist/
+/commerce-services-docserv/
+/sco-js/
+/meijer-sco-assist/
+/eng-impl-meijer/
+/commerce-services-model/
+/engine-connector/
+/served-config/
+/hardware-misc-service/

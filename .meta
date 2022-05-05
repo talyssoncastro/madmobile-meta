@@ -15,6 +15,7 @@
     "commerce-services-model": "git@git.madcloudservices.com:commerce-services/commerce-services-model.git",
     "engine-connector": "git@git.madcloudservices.com:commerce-engine/cloud-pos/engine-connector.git",
     "served-config": "git@git.madcloudservices.com:commerce-engine/cloud-pos/served-config.git",
-    "hardware-misc-service": "git@git.madcloudservices.com:commerce-engine/cloud-pos/hardware-misc-service.git"
+    "hardware-misc-service": "git@git.madcloudservices.com:commerce-engine/cloud-pos/hardware-misc-service.git",
+    "hardware": "git@git.madcloudservices.com:commerce-engine/cloud-pos/hardware.git"
   }
 }

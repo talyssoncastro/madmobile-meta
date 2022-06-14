@@ -17,6 +17,10 @@
     "served-config": "git@git.madcloudservices.com:commerce-engine/cloud-pos/served-config.git",
     "hardware-misc-service": "git@git.madcloudservices.com:commerce-engine/cloud-pos/hardware-misc-service.git",
     "hardware": "git@git.madcloudservices.com:commerce-engine/cloud-pos/hardware.git",
-    "commerce-services-wic": "git@git.madcloudservices.com:commerce-services/commerce-services-wic.git"
+    "commerce-services-wic": "git@git.madcloudservices.com:commerce-services/commerce-services-wic.git",
+    "market-associate": "git@git.madcloudservices.com:commerce-engine/cloud-pos/market-associate.git",
+    "frontend-shared": "git@git.madcloudservices.com:commerce-engine/cloud-pos/frontend-shared.git",
+    "deployment-meijer": "git@git.madcloudservices.com:commerce-engine/cloud-pos/deployment-meijer.git",
+    "sco-qa-automation": "git@git.madcloudservices.com:qa/sco-qa-automation.git"
   }
 }
